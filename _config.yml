@@ -7,4 +7,4 @@ titles_from_headings:
 remote_theme: jekyll/minima
 minima:
   skin: solarized
-  date_format: "On day %j of the year %Y which happened to be a %A"
+  date_format: "On day %j of the year %Y which happened to be a %A in the month of %B"
